@@ -1,0 +1,9 @@
+{
+  "verdict": "APPROVED",
+  "findings": [
+    "[non-blocking] P3 .prettierrc.json: 加了計畫沒列到的 endOfLine: \"auto\"，目的是讓開了 core.autocrlf 的 Windows checkout 通過 format:check。理由說得通，可以保留；之後如果要強制 LF，應該寫在 .gitattributes。",
+    "[non-blocking] P4/P5 package.json + README.md: homepage 和 README 的線上網址都還是 placeholder https://i18n-desk.vercel.app（D-a）。Vercel 正式網址確定後、打 v1.0.0 tag 之前，要把兩處一起換掉。",
+    "[non-blocking] P5 README.md: 截圖 docs/screenshot.png 只出現在 HTML 註解裡，repo 裡沒有這張圖。發行前補上並拿掉註解，或者決定 1.0.0 不放截圖。"
+  ],
+  "reviewDoc": "c:\\Users\\minz\\Documents\\Project\\i18n-desk\\.worktrees\\release-1.0.0/.agents/release-review.md"
+}

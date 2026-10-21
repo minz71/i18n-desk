@@ -1,0 +1,7 @@
+# 測試樣本要逐位元比對，格式化會弄壞它們
+tests/fixtures/
+dist/
+package-lock.json
+node_modules/
+.worktrees/
+.agents/

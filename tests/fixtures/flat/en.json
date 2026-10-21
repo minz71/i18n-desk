@@ -1,0 +1,15 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "copied": "{{label}} copied"
+  },
+  "history": {
+    "labels": {
+      "size": "Size",
+      "quantity": "Quantity {0}"
+    },
+    "title": "Order History"
+  },
+  "unicode": "Emoji 🎉 and \"quotes\" and \\backslash\\ and é"
+}

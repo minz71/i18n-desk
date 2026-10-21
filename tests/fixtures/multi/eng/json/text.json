@@ -1,0 +1,7 @@
+{
+  "home": {
+    "title": "Cake Shop",
+    "greet": "Hi {{name}}"
+  },
+  "ok": "OK"
+}

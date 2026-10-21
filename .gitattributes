@@ -1,0 +1,2 @@
+# 測試樣本要逐位元比對，換行字元不能被 git 改掉
+tests/fixtures/** -text

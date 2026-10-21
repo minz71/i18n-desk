@@ -1,0 +1,14 @@
+{
+  "history": {
+    "title": "訂單紀錄",
+    "labels": {
+      "quantity": "數量 {0}",
+      "size": "尺寸"
+    }
+  },
+  "common": {
+    "ok": "確定",
+    "copied": "已複製 {{ label }}",
+    "cancel": ""
+  }
+}

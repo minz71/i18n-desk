@@ -1,0 +1,9 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Abbrechen"
+  },
+  "history": {
+    "title": "Bestellverlauf"
+  }
+}
